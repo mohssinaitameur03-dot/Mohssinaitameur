@@ -15,11 +15,15 @@ Focused on the stability, security, and evolution of IT infrastructures.
 *  Certifications.
 
 **Fortinet:** Certified Fundamentals (FCF) and Certified Associate (FCA).
+
 **IT Specialist:** Cybersecurity and Cloud Computing.
+
 * Languages
 
 Arabic: Native.
+
 French: Professional.
+
 English: Professional.
 
 * Contact
