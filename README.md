@@ -26,12 +26,6 @@ French: Professional.
 
 English: Professional.
 
-### 🛠 Technical Skills
-* [cite_start]**Operating Systems**: Windows Server, GNU/Linux, and LDAP server[cite: 46, 47, 49, 50].
-* [cite_start]**Virtualization**: VMware, Hyper-V, and Oracle VM[cite: 51].
-* [cite_start]**Networking**: LAN/WAN/VPN, configuration of routers, switches, and access points[cite: 53, 55].
-* [cite_start]**Security**: Network troubleshooting and technical support[cite: 56, 57].
-
 * Contact
 
 Email: mohssinaitameur03@gmail.com 
